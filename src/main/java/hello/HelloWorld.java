@@ -14,6 +14,6 @@ public class HelloWorld
     Greeter greeter = new Greeter();
     System.out.println(greeter.sayHello());
   }
-  //this is an addition
+  //this is a DELETION
 }
 
