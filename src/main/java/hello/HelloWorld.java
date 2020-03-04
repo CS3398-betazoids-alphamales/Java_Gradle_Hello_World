@@ -2,7 +2,7 @@ package hello;
 /* Get a time library */
 import org.joda.time.LocalTime;
 
-// Add a comment
+// Hello from Evan
 
 public class HelloWorld 
 {
